@@ -11,7 +11,7 @@
 
 ## 🏆 Academic & Technical Skills
 
-🎯 **Software Development:** React Native, Django, Firebase
+🎯 **Software Development:** Flutter, React Native, Django, Firebase
 💻 **Office:** Ms-word, Spreadsheet, PPT, Github, CLI Linux commands
 📂 **Database Management:** SQLite, SQL, Firestore  
 📊 **Data Analytics & Visualization:** C, C++, Java, Python, Chart.js, HTML5, CSS 
@@ -24,7 +24,7 @@
 ## 🌟 Featured Projects
 
 🚀 **[Tulsa District Lake Water Safety App](#)**  
-🌊 *Developed a real-time lake monitoring app using React Native, Firebase, and REST APIs for water level tracking and public alerts.*  
+🌊 *Developed a real-time lake monitoring app using Flutter, Firebase, and REST APIs for water level tracking and public alerts.*  
 
 📚 **[Library Management System](#)**  
 📖 *Designed and implemented a database-driven system for tracking books, borrowers, and transactions.*  
