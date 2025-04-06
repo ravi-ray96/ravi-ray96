@@ -41,6 +41,6 @@
 
 🌐 **GitHub:** [github.com/ravi-ray96](https://github.com/ravi-ray96)  
 💼 **LinkedIn:** [linkedin.com/in/ravi-ray-776aa82b8](https://www.linkedin.com/in/ravi-ray-776aa82b8/)  
-📩 **Email:** [youremail@example.com](mailto:rkr9684@mavs.uta.edu.com)  
+📩 **Email:** [rkr9684@mavs.uta.edu.com](mailto:rkr9684@mavs.uta.edu.com)  
 
 > "Passionate about leveraging technology to solve complex problems and drive innovation! 🚀"
