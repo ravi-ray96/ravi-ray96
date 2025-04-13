@@ -5,14 +5,14 @@
 🎓 **Computer Science Student** at the **University of Texas at Arlington**  
 💡 Passionate about **Software Development, Databases, Signal Processing, and System Architecture**  
 🔍 Currently working on **Senior Design - Tulsa District Lake Water Safety App**  
-📌 Seeking an **Internship** to gain hands-on experience and contribute to innovative projects  
+📌 Seeking an **Internship** or an **entry-level position** to gain hands-on experience and contribute to innovative projects  
 
 ---
 
 ## 🏆 Academic & Technical Skills
 
 🎯 **Software Development:** Flutter, React Native, Django, Firebase
-💻 **Office:** Ms-word, Spreadsheet, PPT, Github, CLI Linux commands
+💻 **Office:** Ms-word, Spreadsheet, PPT, Git, CLI Linux commands
 📂 **Database Management:** SQLite, SQL, Firestore  
 📊 **Data Analytics & Visualization:** C, C++, Java, Python, Chart.js, HTML5, CSS 
 🛠 **Architectural Design & System Analysis**  
@@ -30,7 +30,7 @@
 📖 *Designed and implemented a database-driven system for tracking books, borrowers, and transactions.*  
 
 🚆 **[Railway Reservation System](#)**  
-🎫 *Built an SQL-based train reservation system for efficient passenger management.*  
+🎫 *Built a project, SQL-based train reservation system for efficient passenger management.*  
 
 🔢 **[Discrete Fourier Transform Implementation](#)**  
 📊 *Applied signal processing techniques to analyze data using DFT in Python.*  
