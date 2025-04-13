@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-## 👋 Hi, I'm Ravi Ray!
+## 👋 Hello, I'm Ravi!
 
 🎓 **Computer Science Student** at the **University of Texas at Arlington**  
 💡 Passionate about **Software Development, Algorithms, Databases, Artificial Intelligence, Signal Processing, and System Architecture**  
