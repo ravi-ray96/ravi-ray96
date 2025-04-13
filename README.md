@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Ravi Ray!
 
 🎓 **Computer Science Student** at the **University of Texas at Arlington**  
-💡 Passionate about **Software Development, Databases, Signal Processing, and System Architecture**  
+💡 Passionate about **Software Development, Algorithms, Databases, Artificial Intelligence, Signal Processing, and System Architecture**  
 🔍 Currently working on **Senior Design - Tulsa District Lake Water Safety App**  
 📌 Seeking an **Internship** or an **entry-level position** to gain hands-on experience and contribute to innovative projects  
 
