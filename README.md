@@ -2,19 +2,18 @@
 
 ## 👋 Hello, I'm Ravi!
 
-🎓 **Computer Science Student** at the **University of Texas at Arlington**  
+🎓 **Recent Graduated Computer Science Student** From **University of Texas at Arlington**  
 💡 Passionate about **Software Development, Algorithms, Databases, Artificial Intelligence, Neural Networks**  
-🔍 Currently working on **Senior Design - Tulsa District Lake Water Safety App**  
-📌 Seeking an **Internship** or an **entry-level position** to gain hands-on experience and contribute to innovative projects  
+🔍 Seeking an **FullTime** **entry-level position** to gain hands-on experience and contribute to innovative projects  
 
 ---
 
 ## 🏆 Academic & Technical Skills
 
 🎯 **Software Development:** Flutter, React Native, Django, Firebase
-💻 **Office:** Ms-word, Spreadsheet, PPT, Git, CLI Linux commands
-📂 **Database Management:** SQLite, SQL, Firestore  
-📊 **Data Analytics & Visualization:** C, C++, Java, Python, Chart.js, HTML5, CSS 
+💻 **Office:** Ms-word, Spreadsheet, PPT, Git,Github, CLI Linux commands
+📂 **Database Management:** SQLite, SQL, Firestore, MongoDB 
+📊 **Data Analytics & Visualization:** C, C++, Java, Python, Agular, HTML5, CSS 
 🛠 **Architectural Design & System Analysis**  
 🔬 **Research in Computing Ethics & Professional Practices**  
 💬 **Public Speaking & Leadership Development**  
